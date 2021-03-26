@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b039cd9c.chunk.css",
+    "main.js": "/static/js/main.405f4853.chunk.js",
+    "main.js.map": "/static/js/main.405f4853.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d9d2291a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d9d2291a.js.map",
+    "static/js/2.a44cc60f.chunk.js": "/static/js/2.a44cc60f.chunk.js",
+    "static/js/2.a44cc60f.chunk.js.map": "/static/js/2.a44cc60f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b039cd9c.chunk.css.map": "/static/css/main.b039cd9c.chunk.css.map",
+    "static/js/2.a44cc60f.chunk.js.LICENSE.txt": "/static/js/2.a44cc60f.chunk.js.LICENSE.txt",
+    "static/media/Avatar1.12adf8f6.svg": "/static/media/Avatar1.12adf8f6.svg",
+    "static/media/Logo.afaab4b9.svg": "/static/media/Logo.afaab4b9.svg",
+    "static/media/chozmaLagmon.006d61b9.png": "/static/media/chozmaLagmon.006d61b9.png",
+    "static/media/chuchvara.e887c6bc.png": "/static/media/chuchvara.e887c6bc.png",
+    "static/media/delete.c944b457.svg": "/static/media/delete.c944b457.svg",
+    "static/media/qovurmaLagmon.bcdbf259.png": "/static/media/qovurmaLagmon.bcdbf259.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9d2291a.js",
+    "static/js/2.a44cc60f.chunk.js",
+    "static/css/main.b039cd9c.chunk.css",
+    "static/js/main.405f4853.chunk.js"
+  ]
+}
